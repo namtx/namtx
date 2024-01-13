@@ -1,4 +1,5 @@
 Follow me on [namtx.dev](https://namtx.dev/)
+
 My [CV](https://cv.namtx.dev)
 
 <p align="center">
